@@ -6,6 +6,8 @@ When an NPC is unloaded while walking to a scheduled destination and later strea
 
 The code in this repo implements that catchup behavior with a small custom layer on top of an existing schedule / goal-based AI framework.
 
+Link to showcase: https://onedrive.live.com/?id=%2Fpersonal%2F9d9f3cd318aeacbc%2FDocuments%2FPortfolio%2F4%2E%20NPC%20Schedule%20Catchup%20Behavior%20%28Prototype%29&viewid=b61252c1%2D4089%2D4b48%2Dba1f%2D36bf4fdf86eb
+
 ## Problem
 
 In a schedule-driven AI setup, NPCs are often assigned goals based on time of day:
